@@ -1,7 +1,7 @@
 ## Hi, I'm Manyata 👋
 
 💻 Computer Science Student</br>
-🌱 Learning Java & Java</br>
+🌱 Learning Java & Web Development/br>
 🚀 Building web projects and improving my coding skills</br>
 📚 Always learning something new</br>
 
